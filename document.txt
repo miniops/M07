@@ -1,5 +1,366 @@
-### Welcome to your project!
+# Participació a la xarxa
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+Internet ha canviat la nostra manera de sentir, pensar, treballar, relacionar-nos, manifestar-nos i organitzar-nos. La xarxa no és una organització jeràrquica: hi interactuem i hi creem comunitats segons els nostres interessos, afinitats o objectius. Coneix espais de participació, reflexiona sobre què hi vols aportar i llança’t a fer-ho en aquest curs. Participa, expressa’t i fes la teva contribució a la xarxa com a ciutadà crític.
+
+![imatge 1](img/img1.jpg)
+
+Font: [Vladgrin - Social Media, Communication in the Global Computer Networks](http://www.shutterstock.com/pic-119930089/stock-vector-social-media-communication-in-the-global-computer-networks.html?src=Ao1LbpCATplI9CeNqwIaDA-8-56)
+
+
+
+
+###  Síl·labus
+
+* La societat en xarxa:
+	* Una introducció a Internet com a mitjà organitzatiu no jerarquitzat d’usuaris i comunitats.
+* Els projectes col·laboratius a Internet:
+	* Una visió general de projectes col·laboratius i les possibilitats de creació comunitats. 
+* La creativitat acumulativa i col·laborativa a Internet:
+	* Coneix les propostes i les oportunitats d’aportar continguts a la xarxa de manera activa.
+* La participació ciutadana a Internet:
+	* Un recorregut per les propostes de projectes i les opcions de participar-hi:  periodisme, activisme ciutadà i el finançament col·lectiu.
+
+### Prerequisits
+
+Cap
+
+### Dedicació horària
+
+10h
+
+### Elaborat per
+
+* Catina Bujosa
+* Mireia Manresa
+
+## Societat en xarxa
+
+Et proposem explorar propostes de participació a la xarxa. Hauràs de seleccionar, analitzar, decidir, guardar o descartar, organitzar i comentar la informació trobada per tal d’oferir la teva selecció a la comunitat.
+
+Internet és un mitjà organitzatiu que permet noves formes de relació social. La major part de persones, en menor o major grau, participen i contribueixen a la xarxa aportant-hi contingut.  Quina actitud hem de tenir per participar-hi? Quines habilitats hem de conèixer per aportar-hi contingut?
+
+Aquest vídeo et farà pensar en què és participar i com ho fem:
+
+[literacies - jenkins](http://tiscar.com/2009/02/23/video-new-media-literacies-en-espanol/)<iframe width="420" height="315" src="http://www.youtube.com/embed/wwAk-wLqlzM" frameborder="0" allowfullscreen></iframe>
+
+PEU DEL VÍDEO: Reptes per a la cultura de la participació en el segle XXI- Font: [New Media Literacies](http://www.newmedialiteracies.org/) - Subtítols [Tiscar Lara](http://tiscar.com/2009/02/23/video-new-media-literacies-en-espanol/) 
+
+Tots treiem el nas per Internet: hi busquem, observem, hi escrivim, ajudem, tafanegem. Fixa’t en la varietat de perfils que mostra la imatge. Pensa-hi: amb quin o quins et sents representat?
+
+Personalitats a les xarxes socials
+
+* Els ultraconnectats
+	* Consulten els seus comptes i feeds de notícies contínuament. Admeten sense problema la seva obssessió.
+* Els absents
+	* Accedeixen als seus comptes amb poca freqüència. Poden passar dies i setmanes sense publicar-hi res.
+* Els dissimulats 
+	* Afirmen que les xarxes socials no controlen la seva vida, però en realitat pateixen ansietat o se senten aïllats quan no poden connectar-s’hi.
+* Els verges
+	* S'acaben d'estrenar a les xarxes socials. Adaptar-s'hi suposa per a ells tot un repte i en desconeixen tot el potencial.
+* Els observadors
+	* Amagats a l'ombra del ciberespai, la seva activitat principal és observar el que diuen els altres. No hi participen mai o rarament.
+* Els narcisistes
+	* Les xarxes socials són, per a ells, com un concurs de popularitat. Els resulta essencial tenir nous seguidors, amics, les mencions, els  “M’agrada”  i els retuits.
+* Els dobles
+	* Adopten una nova personalitat a la xarxa, ningú no sap la seva identitat real o és difícil de determinar.
+* Els fantasmes
+	* Creen perfils anònims per por de donar informació personal als desconeguts.
+* Els informadors
+	* Molt atents a les noves tendències i notícies, els encanta ser els primers a compartir-les. 
+* Els preguntadors
+	* Fan moltes preguntes i n’esperen resposta per encetar debats i converses amb els seus seguidors.
+* Els depenents
+	* Després de publicar-hi alguna cosa, comproven constantment i amb ànsia els seus comptes fins que no reben la resposta o l’aprovació de l'audiència.
+* Els rondinaires
+	* Contestaris, durs i amb opinió marcada en els debats a la xarxa, en canvi són tranquils i amables en les converses en directe.
+
+
+F1 **Atura’t i reflexiona** 
+
+La importància de la xarxa per a la comunicació en la societat actual és inqüestionable. Manuel Castells, a [*Internet y la sociedad red*](http://www.uoc.edu/web/cat/articles/castells/castellsmain12.html) fa aquesta afirmació: 
+
+
+>Internet [...] no es simplemente una tecnología; es el medio de comunicación que constituye la forma organizativa de nuestras sociedades, es el equivalente a lo que fue la factoría en la era industrial. 
+
+De fet, per a la major part de nosaltres, Youtube, Twitter, Facebook, Flickr, Instagram, etc. ja són llocs per compartir experiències, des de les més prosaiques a d'altres més complexes. 
+
+* I tu, formes part d'alguna xarxa? Què hi fas? Què hi aportes i què en treus? Si no hi participes, per què no?
+* Quines habilitats creus que s'han de tenir per formar part de la cultura participativa d'Internet?
+* Amb quina de les personalitats de la xarxa t’identifiques més?  
+Escriu en el fòrum les teves reflexions sobre què signifiquen per a tu les xarxes socials i com participes a Internet.
+
+
+(PAS 3)
+
+## Petits i grans projectes
+
+La xarxa permet treballar col·laborativament per sumar capacitats individuals, crear recursos i generar iniciatives de gran valor per a tothom. 
+
+A Internet tot enllaça amb tot. Un 80% dels continguts que publiquen els usuaris de les xarxes socials  són enllaços trobats en altres llocs i publicats per altres persones. I això està molt bé! 
+
+Ara bé, si únicament ens quedem en aquest nivell individual no estem aprofitant una de les potencialitats principals d'Internet, la cultura col·laborativa.
+
+Mira’t aquests vídeos:
+
+[Cory Doctorow - Wikimania London 2014](<iframe src="http://player.vimeo.com/video/69122812" width="500" height="280" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/69122812">Cory Doctorow. Wikipedia i Internet</a> from <a href="http://vimeo.com/institutobert">IOC</a> on <a href="http://vimeo.com">Vimeo</a>.</p>)
+
+
+PEU VÍDEO: Wikipedia: gran projecte col·laboratiu de continguts gratuïts  - Font: [Cory Doctorow](http://craphound.com/bio.php) - [Wikimania London](http://www.wikimanialondon.org/)
+
+[Linux Foundation](http://www.youtube.com/watch?v=JDjzxY0aTIQ)
+
+PEU VÍDEO: Linux: projecte tecnològic sense ànim de lucre  - Font: [The Linux Foundation](http://www.linuxfoundation.org/) 
+
+
+
+Els grans projectes col·laboratius com Wikipedia o GNU/Linux mostren una manera de fer nascuda d’Internet i que només és possible en la cultura d’Internet. 
+
+
+Quines són les seves característiques essencials?
+
+* Individus que investiguen, col·laboren i elaboren continguts per posar-los a l’abast de tothom.
+* Continguts gratuïts, globals, oberts i lliures.
+* Sense afany comercial.
+* Són sistemes organitzatius horitzontals, ja que el coneixement es construeix de manera connectada i interdependent entre els participants.
+
+Però també hi ha petits projectes participatius en xarxa que esdevenen grans pel seu valor ciutadà, social, cultural, científic o tecnològic. Són projectes creats per grups reduïts de persones que sense una gran infraestructura creen una obra nascuda a la xarxa i que s'alimenta de les aportacions de tothom. 
+ 
+
+Vols descobrir-ne un exemple? Mira't aquest vídeo, explora'n la web i pensa en com es construeix el projecte [Your Lost Memories](http://www.yourlostmemories.com/es/about-us/) . Creus que s'organitza, a petita escala, com els grans projectes col·laboratius?
+
+[Your Lost Memories](http://www.yourlostmemories.com/es/about-us/)  és un projecte web que funciona com una oficina virtual que recull pel·lícules domèstiques de 8mm perdudes amb l'objectiu de retornar-les als seus propietaris originals. 
+
+[VÍDEO YOUR LOST MEMORIES](<iframe src="//player.vimeo.com/video/51437088?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/51437088">INTRO YOURLOSTMEMORIES</a> from <a href="http://vimeo.com/user1803216">Your Lost Memories</a> on <a href="https://vimeo.com">Vimeo</a>.</p>)
+
+PEU DEL VÍDEO: El Projecte [Your Lost Memories](http://www.yourlostmemories.com/es/help-us/) retorna pel·lícules perdudes als seus propietaris.
+
+
+F2 **Atura’t i comparteix**
+
+Perquè els companys puguin veure com ets a la xarxa, comparteix el teu nom d'usuari de [Twitter](https://twitter.com/?lang=ca) en el fòrum. Si no en tens cap compte, obre’n un. Et servirà per anar avançant en el miniOP i per compartir totes les troballes que faràs a la xarxa sobre projectes de participació i col·laboració. Per trobar fàcilment la resta de participants i les seves recomanacions, hem d'etiquetar el que posem al Twitter.  L'etiqueta que utilitzarem serà #miniop7. Per veure tot el que s'hi va publicant has d'anar a la pàgina de [cerca de Twitter](https://twitter.com/search-home) i posar-hi #miniop7. Quan t'aparegui la llista de tuits has de clicar a la pestanya que diu "Tots". 
+
+Comencem, doncs, a participar i a compartir a Twitter el que descobrim. D'entrada, explora tots aquests projectes: creus que podries col·laborar en el projecte [Your Lost Memories](http://www.yourlostmemories.com/es/help-us/) o saps d'algú que pugui fer-ho? Tens algun familiar o conegut que vulgui explicar un record i publicar una història a [The Memoro Project]( http://www.memoro.org/es-ca/index.php)? Vols Denunciar algun desperfecte al teu poble a través de [Arregla mi calle](http://www.arreglamicalle.com/index.php?id=es)? O bé col·laborar amb alguna aportació al projecte [Cafés pendientes](http://cafespendientes.es/informacion/)?  Si et ve de gust i et sembla interessant, participa-hi o fes un tuit per difondre aquests projectes. Si ho fas, recorda't d’escriure sempre l’etiqueta #miniop7 en el text del tuit. 
+
+FG **Aprèn en col·laboració**
+
+Si no te'n surts de crear un compte de Twitter o bé no saps com funciona aquesta xarxa social, pregunta al fòrum general. Si ets un expert en Twitter, entra al fòrum general per ajudar els companys. Es tracta que entre tots us en sortiu. 
+
+
+
+(PAS 4)
+
+##Tot es basa en el *crowdsourcing*
+
+Fer qualsevol cosa en grup dóna millors resultats que fer-la sol. La xarxa requereix i posa en contacte gent activa, no consumidors passius sinó creadors actius de continguts, productes i informació.  
+
+Les grans idees i els grans projectes ja no només els fan els experts o els genis, des de llocs especials com universitats d’elit o parcs tecnològics ni són fruit de l’*eureka!*  perquè la creativitat en l’era d’Internet és acumulativa i col·laborativa.  Tot: des del disseny d’una samarreta fins a un gran projecte científic pot ser producte del *crowdsourcing*.
+
+Mira’t aquest vídeo:
+
+[crowdsourcing](<iframe src="http://player.vimeo.com/video/21133368" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/21133368">#1 Crowdsourcing</a> from <a href="http://vimeo.com/zzzinc">zzzinc</a> on <a href="http://vimeo.com">Vimeo</a>.</p>)
+
+PEU DEL VÍDEO: La capacitat productiva i creativa de les comunitats. Font: [ZZZINC](https://vimeo.com/21133368)
+
+El terme *crowdsourcing* (proveïment participatiu) és la crida a una comunitat de persones per a la participació voluntària i de col·laboració amb l’objectiu de portar a terme un projecte o crear un producte gràcies a la *intel·ligència col·lectiva*.
+
+Uns saben unes coses i altres en saben d’altres, de manera que cada persona pot contribuir en la cosnstrucció del coneixement en allò que sap.  Per tant, els projectes creats i construïts a la xarxa són fruit de la  *intel·ligència col·lectiva*.  Saps què és? Mira’t aquest vídeo:
+
+[vídeo 3 - collective intelligence](<iframe src="http://player.vimeo.com/video/69126031" width="500" height="280" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/69126031">Thomas Malone. Sobre la intel·ligència col·lectiva</a> from <a href="http://vimeo.com/institutobert">IOC</a> on <a href="http://vimeo.com">Vimeo</a>.</p>)
+
+
+PEU DEL VÍDEO: Sumar capacitats - Font: [Thomas Malone](http://cci.mit.edu/), [MIT Video](http://video.mit.edu/watch/thomas-malone-on-collective-intelligence-9789/) 
+ 
+
+(XAVIER > COS DE LLETRA MÉS GRAN O HA DE TENIR MÉS PROTAGONISME JA QUE S'ANUNCIA EL PROJECTE DEL MINIOP) Et proposem participar en una experiència real de col·laboració a Internet.  Entre tots explorarem iniciatives de participació ciutadana a la xarxa, les analitzarem i les publicarem en un [blog col·laboratiu](http://miniop7.tumblr.com) obert que sigui un referent de consulta per a qualsevol persona que hi estigui interessada. Vols participar en una experiència real de col·laboració a Internet? Fem un producte sorgit de la intel·ligència col·lectiva, la teva i la de la resta de participants. Som-hi! 
+
+F3 **Atura’t i reflexiona**
+
+Quina és la teva experiència en projectes col·laboratius? Has participat en algun? Coneixes algun producte o projecte sorgit del *crowdsourcing*? Comenta-ho en el fòrum.
+
+
+(PAS 5) 
+
+## El periodisme ciutadà
+
+Des del moment que qualsevol persona és testimoni d’un fet, en fa una foto, en grava un vídeo o n’escriu un petit comentari i el publica a Internet, ja esdevé una font d’informació.
+
+Les xarxes socials estan canviant els mecanismes de cristal·lització de l’opinió pública. Destriar, posar en qüestió la informació i arribar a formar una opinió i criteri propis és una tasca, de vegades, difícil.
+
+Observa aquestes imatges i pensa en com la informació sobre els fets que presenten ha arribat a tot el món: 
+
+(XAVI: COM LA PROPOSTA DE CARROUSSEL QUE EM VARES MOSTRAR - FOTO I TEXT DINS UNA MENA DE BANDA A SOTA)
+
+[Foto Instagram Twitter gezi](https://twitter.com/KitOConnell/status/341778430335000577/photo/1)
+
+Peu foto:  [Kit O'Connell](https://twitter.com/KitOConnell)
+
+[Imatge Logo twitter gezi](http://24.media.tumblr.com/606eb1cd06442a07c402f0f5ecf46ad9/tumblr_mnvuki5JE81qzs5cqo1_1280.png)
+
+Peu foto: Artista desconegut. - Font: Meg Robertson, [The Huffington Post](http://www.huffingtonpost.com/?country=US) 
+
+Al maig i juny de 2013 centenars de persones van protestar al Parc Gezi (Istambul) contra la demolició projectada pel govern. Van patir la violència dels antivalots que els ruixaven amb gas pebre. *Un tuit pot ser més perillós que un cotxe bomba* va dir Ali Sahin, responsable de mitjans del Partit de Justícia i Desenvolupament (AKP) de Turquia, liderat pel primer ministre Erdogan. L’etiqueta a les xarxes socials d’aquesta protesta ciutadana  és #occupygezi.
+
+
+[foto japó](http://www.flickr.com/photos/yisris/5557953663/in/photolist-9t8XZi-9t91tZ-aqJEX8-aqMms9-aqJP2M-aqMrQh-aA7yJR-aGCx8D-aA7BQD-aAaf2h-aAa4my-aA7osH-aAajDL-aAaaYu-aA7ysX-aA7tvr-aA7ujM-aA7sTc-aAa6RJ-aA7p1D-aAa9TY-aA7p7z-aA7sYB-aA7vpD-aA7u2c-aAa5Dq-aAaeNd-aA7xfn-aA7nFe-aAabiW-aA7yBP-aAaa5E-aAa8uU-aAagoQ-9SxJcW-9SxLA9-aqM153-9SuRG2-9SuPGB-9SxPX9-aqJQGa-9SxNFy-9SxKXS-9SuTze-9SxJSo-9SxMVY-9SxPm7-aqLytw-aqM4om-aA7oQT-aAa7Kq/)
+
+(peu/font foto: yisris [Flickr](http://www.flickr.com/people/yisris/)
+
+
+El tsunami del Japó de 2011 va deixar milers de víctimes i desapareguts. Les xarxes socials van ser de gran ajut tant per posar en contacte familiars i amics, com per informar sobre l’organització dels sistemes d’emergència i evacuació, mostrant la seva capacitat d’unir persones i encetar iniciatives davant la catàstrofe. Les etiquetes van ser  #japan, #japanquake i #tsunami
+
+D’on obtens informació? Et consideres una persona ben informada? El cert és que tendim a llegir o escoltar allò que reforça la nostra ideologia o allò que publiquen els grans mitjans. Més que opinar, el que fem és reafirmar opinions d’altres. Trobar fonts creïbles i sense biaix és una tasca costosa. 
+
+Si, enmig de l’allau d’informació sovint mediatitzada, no et conformes a conèixer només una part de la realitat, hi ha iniciatives col·lectives que et poden ajudar a trobar informació significativa fora dels mitjans tradicionals:
+
+
+* [Global Voices](http://ca.globalvoicesonline.org/) és un blog que t’acosta a bloguers activistes d’arreu del món i esdevé altaveu de fets que els mitjans de comunicació normalment ignoren. 
+* [Reddit](http://es.reddit.com/), als EUA, i [Menéame](http://www.meneame.net/) són plataformes en què una comunitat d’usuaris tria les notícies o fets que considera rellevants, en publica l’enllaç, les vota i les debat, sense jerarquies.
+
+[global voices](<iframe src="http://player.vimeo.com/video/69158974" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/69158974">Un altaveu de noícies ignorades</a> from <a href="http://vimeo.com/institutobert">IOC</a> on <a href="http://vimeo.com">Vimeo</a>.</p>)
+
+PEU DEL VÍDEO: Global Voices: un altaveu de notícies ignorades. Font: [RTVE](http://www.rtve.es/alacarta/videos/camara-abierta-20/camara-abierta-20-cristina-granados-vavel-dooplan-global-voices/641008/)
+
+
+[reddit](<iframe width="560" height="315" src="http://www.youtube.com/embed/fXGs_7Yted8" frameborder="0" allowfullscreen></iframe>)
+
+PEU VÍDEO: Reddit: la informació gestionada pels usuaris genera canvis. Font: [Ted Talks](http://www.ted.com/talks/alexis_ohanian_how_to_make_a_splash_in_social_media.html)
+
+[ricardo galli](<iframe src="http://player.vimeo.com/video/69126030" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/69126030">Ricardo Gallo, creador de Menéame</a> from <a href="http://vimeo.com/institutobert">IOC</a> on <a href="http://vimeo.com">Vimeo</a>.</p>)
+
+PEU VÍDEO: [Menéame](http://www.meneame.net/), triar i debatre notícies lliurement. Font: [Casa de América](http://www.youtube.com/watch?feature=player_embedded&v=Kb3ySgTJ-q4)  
+
+Quines són les característiques principals i comunes d’aquestes plataformes?
+
+* La gran capacitat per crear comunitats d’usuaris n’és la part essencial.
+* Les comunitats d’usuaris voten, comenten, creen debat i corrent d’opinió.
+* Aquestes plataformes no controlen el contingut d’allò que la comunitat publica.
+* Les comunitats d’usuaris tenen una influència real que pot arribar a marcar els continguts que els mitjans de comunicació i els diaris tradicionals ofereixen posteriorment als seus lectors o la seva audiència.
+
+
+**Atura’t i comparteix... a Twitter**
+
+Aquí tens tres propostes per als teus tuits:
+
+* Explora [Menéame](http://www.meneame.net/) i  [Global Voices](http://ca.globalvoicesonline.org/) i comparteix les notícies o continguts que trobis interessants. Intenta que siguin notícies difícils de trobar en altres espais o que tinguin un valor social.
+* Pots fer el seguiment d’etiquetes de moviments socials a Twitter, com per exemple #kiev o #freeukraine. O bé trobar-ne altres d'interessants que mostrin la col·laboració entre ciutadans d'arreu del món. Ep! No t'oblidis d’afegir l’etiqueta #miniop7 al final de les teves piulades. 
+
+
+PAS 6
+
+## El *crowdfunding* o el finançament col·lectiu
+
+Les retallades han fet que el finançament públic per a emprenedors sigui molt escàs. Des de fa uns anys existeixen plataformes de finançament col·lectiu en què una persona pot portar a terme el seu projecte mitjançant les aportacions fetes per altres.
+
+En aquest vídeo trobaràs el nom i l’objectiu d’algunes plataformes de *crowdfunding*. Mira-te’l atentament:
+
+[crowdfunding](<iframe src="http://player.vimeo.com/video/29951514" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/29951514">#2 Crowdfunding</a> from <a href="http://vimeo.com/zzzinc">zzzinc</a> on <a href="http://vimeo.com">Vimeo</a>.</p>)
+
+PEU DEL VÍDEO: Coneix les plataformes de finançament col·lectiu. Font: [ZZZINC](http://vimeo.com/zzzinc/crowdfunding)
+
+Com funciona el *crowdfunding* o micromecenatge de projectes?
+
+XAVI: CAIXES DE TEXT HTLM AQUESTA ÉS LA IMATGE DE REFERÈNCIA PERÒ ET POSO EL TEXT A CONTINUACIÓ [img](https://lh5.googleusercontent.com/-aQoEwwPNdcs/TXqO77hjE7I/AAAAAAAAC_g/0Tjq_pL48mI/s1600/verkami+2.png)
+
+#### Per als creadors
+
+1. Tens una idea
+2. Publica el teu projecte en una plataforma de micromecenanatge
+3. Decideixes el nombre de dies per donar a conéixer el teu projecte i recaptar el finançament necessari
+4. El projecte aconsegueix el finançament i els mecenes reben les seves recompenses
+
+#### Per als mecenes
+
+1. T’agrada un projecte? Segueix-ne l’evolució a la seva pàgina
+2. Escull la teva recompensa i fes la teva aportació al projecte
+3. Si al cap del nombre de dies establert, el projecte aconsegueix finançament, es fa el càrrec la teu compte
+4. El creador el du a terme i tu reps la teva recompensa
+
+Font: [Verkami](http://www.verkami.com/page/about)
+
+
+Vols conèixer projectes concrets? Llegeix aquesta [entrevista a Joan Sala](http://www.nuvol.com/entrevistes/joan-sala-el-crowdfunding-no-pot-substituir-el-financament-tradicional/), fundador de [Verkami](http://www.verkami.com/) i descobreix-ne la seva proposta.
+
+**Atura’t i comparteix... a Twitter** 
+
+Busca propostes de mecenatge obertes en aquest moment o que ja hagin aconseguit el seu objectiu.  Pots explorar [Gotteo](http://goteo.org/?lang=ca), [Lánzanos](http://www.lanzanos.com/proyectos/) o [Verkami](http://www.verkami.com/), per exemple. Després, promociona-les a Twitter. No t’oblidis de posar-hi l’etiqueta #miniop7.
+La proposta [Les coses grans](http://www.verkami.com/projects/4787-les-coses-grans) resulta interessant: t'agrada? Hi participaries? Busca'n altres que t’engrescarien a fer de mecenes. 
+
+PAS 7
+
+## La participació ciutadana  
+
+>No s’hi val a limitar-se a difondre informació: cal parlar i escoltar, respondre, dialogar. Estar disposats a involucrar-se en una conversa d’igual a igual, tant si ens agrada com si no.
+> 
+>[Carles Bellver Tolrà](http://www.carlesbellver.com/)
+
+XAVI: CARRUSEL
+
+Mira’t aquestes imatges que pretenen fer una crida al voluntariat. Reflexiona sobre el petit text que les acompanya i observa’n tots els elements compositius:
+
+[be a volunteer](http://www.buzzfeed.com/copyranter/heart-wrenching-facebook-blasting-crisis-relief-ads)
+
+PEU: Internet estén iniciatives però aquestes s’han d’acompanyar d’accions. Font: [Publicis - Singapore](http://www.publicisgroupe.com/)
+
+
+La gent s’organitza i es mobilitza per donar veu a problemes d’interès comú o per defensar una causa. Per a fer-ho, tenim Internet. Vivim en un món real i físic però la xarxa és fonamental per mostrar, debatre i resoldre els problemes que ens afecten. Per exemple [Change.org](http://www.change.org/es) és una plataforma mundial que permet que qualsevol persona pugui proposar i generar un canvi que consideri necessari.
+
+
+Mira’t aquest vídeo i para atenció a les plataformes que s’hi mencionen:
+
+[Participes en campanyes solidàries a la xarxa - diari ara](<iframe src="http://player.vimeo.com/video/68771960" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/68771960">Campanyes solidàries al carrer. Diari Ara</a> from <a href="http://vimeo.com/institutobert">IOC</a> on <a href="http://vimeo.com">Vimeo</a>.</p>)
+
+
+PEU VÍDEO: Aprofitar la xarxa per fer campanyes solidàries i de denúncia - Font: [Diari Ara](http://www.ara.cat/programes/Enquesta-Al_carrer-Manifestos-Internet-Avaaz-Change-org_3_878942101.html)
+
+
+Per tal que els clics fets des de casa siguin efectius han d’anar acompanyats de compromís cívic i d’accions col·lectives reals per part dels ciutadans.
+
+Els grans canvis socials i històrics s’han produït gràcies als moviments socials. Internet és un fòrum global que permet que la societat s’organitzi en comunitats, s’expressi i aconsegueixi canvis reals. No és una qüestió d’habilitats tecnològiques sinó d'actitud. Mira’t aquest vídeo:
+
+[8tv Manuel Castells](<iframe src="http://player.vimeo.com/video/69158975" width="500" height="280" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/69158975">Moviments socials i Internet - Manuel Castells</a> from <a href="http://vimeo.com/institutobert">IOC</a> on <a href="http://vimeo.com">Vimeo</a>.</p>) 
+
+PEU VÍDEO: Els moviments socials i Internet - [Manuel Castells](http://www.manuelcastells.info/es/index.htm). Font: [8tv](http://bcove.me/qaawft4s)
+
+**Atura’t i comparteix... a Twitter**
+
+Troba propostes de participació ciutadana a la xarxa i promociona-les a Twitter. Fes-ho sempre amb l’etiqueta #miniop7 perquè tots els companys les puguin veure:
+
+* Pots publicar algun contingut que et cridi l’atenció de pàgines de participació ciutadana com: [El Calellòmetre](http://www.elcalellometre.cat/), [De veí a veí](http://deveiaveibarrisantantoni.wordpress.com/) o bé [Processos participatius en xarxa](http://www.paeria.es/processosparticipatius/ca/); també pots buscar-ne altres de similars i donar-les conèixer.
+* Explora la plataforma de peticions [Change.org](http://www.change.org/es) i si en trobes alguna amb la qual estiguis d’acord, promociona-la amb un tuit.
+
+
+PAS 8 
+
+## Projecte
+
+Et proposem participar en un blog col·laboratiu sobre participació ciutadana a la xarxa. 
+
+Per fer aquest projecte és **imprescindible que hagis participat a Twitter durant el miniOP**. De tot el que tu i la resta de participants heu anat trobant i promocionant a Twitter, **selecciona un mínim de tres propostes** que t'interessin per fer-ne una recomanació al blog. Es tracta, ara, de fer una feina que vagi més enllà de la recomanació breu que has fet a Twitter. En definitiva, **ara has de donar més informació sobre el que recomanis perquè l'espai d'un blog t'ho permet**.
+
+En aquest blog recollirem, recomanarem i comentarem iniciatives de col·laboració en xarxa i altres continguts que no acostumen a aparèixer als mitjans de comunicació tradicionals.  
+
+**Què pots publicar al blog col·laboratiu?**
+
+Et donem algunes idees sobre el contingut dels *posts* que publiquis al blog:
+
+* Pots ressenyar al blog propostes que hagis descobert a través de l'exploració feta durant el miniOP.
+* Pots enllaçar notícies **sempre acompanyades d’un comentari personal** que en justifiqui la teva tria.
+* Pots explicar idees que t'hagi suggerit l'exploració que has fet durant el miniOP. Per exemple, pots proposar algun projecte col·laboratiu que t'agradaria tirar endavant (cultural, solidari, tecnològic, científic, d'urbanisme...). Al teu poble, barri o context de treball podria ser interessant proposar alguna iniciativa col·laborativa? Explica'ns-ho en un post al blog. 
+* Pots publicar recursos visuals: vídeos, fotografies, il·lustracions o vinyetes que hagis trobat i que t’hagin resultat colpidores, boniques o divertides, afegint-hi un comentari escrit per contextualitzar-les en el tema de la col·laboració a la xarxa.
+
+
+**Com han de ser els *posts* que publiquis al blog?**
+
+* Dedica temps a seleccionar els continguts que t'interessin especialment sobre aquests tres aspectes: periodisme ciutadà, mecenatge i projectes de participació ciutadana. 
+* Posa-hi un títol: breu, concís i, si és possible, atractiu.
+* Referencia el contingut que publiquis (posa-hi sempre l’enllaç)
+* **És imprescindible** que comentis, contextualitzis i **escriguis un comentari personal prou argumentat** sobre el contingut que hagis seleccionat i decidit publicar al blog.
+* Cal que **signis amb el teu nom i cognoms cada post o entrada** que facis en el blog.
+
+**On i com has de publicar els teus *posts*?**
+
+* Pots veure exemples del que has de fer visitant el blog del projecte: [http://miniop7.tumblr.com/](http://miniop7.tumblr.com/)
+* Pots publicar el teus *posts* des d'aquí: [http://miniop7.tumblr.com/submit](http://miniop7.tumblr.com/submit) (**Alerta**: Quan hagis enviat la teva proposta hauràs d'esperar a que sigui acceptada i publicada. Si en un termini de **48h** veus que la teva entrada no apareix publicada al blog voldrà dir que no estat acceptada perquè li falta alguna cosa: que l'hagis signada, que hi hagis escrit un comentari personal o que l'entrada que proposes no s'adapta al que es demana. Per tant l'hauràs de tornar a enviar.)
+* Pots veure què van publicant els companys aquí: [http://miniop7.tumblr.com/archive](http://miniop7.tumblr.com/archive)
+
+Creus que en acabar el miniOP haurem creat en grup un recurs que proposi opcions per a tots aquells que estiguin interessants en la participació i col·laboració a través de la xarxa? Segur que sí. Som-hi!
