@@ -129,9 +129,8 @@ Però també hi ha petits projectes participatius en xarxa que esdevenen grans p
 
 Vols descobrir-ne un exemple? Mira't aquest vídeo, explora'n la web i pensa en com es construeix el projecte [Your Lost Memories](http://www.yourlostmemories.com/es/about-us/) . Creus que s'organitza, a petita escala, com els grans projectes col·laboratius?
 
-[Your Lost Memories](http://www.yourlostmemories.com/es/about-us/)  és un projecte web que funciona com una oficina virtual que recull pel·lícules domèstiques de 8mm perdudes amb l'objectiu de retornar-les als seus propietaris originals. 
 
-[VÍDEO YOUR LOST MEMORIES](<iframe src="//player.vimeo.com/video/51437088?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/51437088">INTRO YOURLOSTMEMORIES</a> from <a href="http://vimeo.com/user1803216">Your Lost Memories</a> on <a href="https://vimeo.com">Vimeo</a>.</p>)
+<iframe width="560" height="315" src="//www.youtube.com/embed/l1HF8xjx7_I" frameborder="0" allowfullscreen></iframe>
 
 PEU DEL VÍDEO: El Projecte [Your Lost Memories](http://www.yourlostmemories.com/es/help-us/) retorna pel·lícules perdudes als seus propietaris.
 
